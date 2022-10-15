@@ -1,7 +1,7 @@
 <h1>formulario-contato</h1>
 <br>
 <br>
-<h2>Esse projeto consiste em um formulário de contato onde o requerente entra com as informações e a solicitação vai direto para o e-mail do destinatário.
+<h2>Esse projeto consiste em um formulário de contato onde o requerente entra com as informações e a solicitação vai direto para o e-mail do destinatário e ao finalizar recebe uma mensagem de agradecimento.
 <br>
 <br>
 <br>
@@ -15,3 +15,6 @@
 <br>
 <br>
 <h2>link do projeto: <a href="https://formulario-contato-cc.netlify.app/">Formulário de Contato</a>
+<br>
+<br>
+<img src="https://github.com/aderline1/formulario-contato/blob/master/assets/Captura%20de%20Tela%20(80).png?raw=true" Alt="imagem formulário">
